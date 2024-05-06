@@ -1,0 +1,14 @@
+[
+    {
+        "email": "faisal.abbas@kumorai.com",
+        "password": "admin123-A",
+        "name": "Faisal Abbas",
+        "error": " Username or password is incorrect "
+    },
+    {
+        "email": "owais.wali@kumorai.com",
+        "password": "admin123-A",
+        "name": "Owais Wali",
+        "error": " Username or password is incorrect "
+    }
+]
